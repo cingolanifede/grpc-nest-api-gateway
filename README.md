@@ -31,7 +31,3 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
-## Author
-
-- [Kevin Vogel](https://medium.com/@hellokevinvogel)
